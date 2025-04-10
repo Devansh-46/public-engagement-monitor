@@ -21,7 +21,7 @@ driver = webdriver.Chrome(ChromeDriverManager().install(), options=options)
 NIU_WEBSITE_URL = 'https://niu.edu.in'
 NIU_LINKEDIN_URL = 'https://www.linkedin.com/school/noida-international-university/'
 NIU_INSTAGRAM_URL = 'https://www.instagram.com/niuniversity/'
-WHATSAPP_NUMBER = '+91xxxxxxxxxx'  # Replace with your number
+WHATSAPP_NUMBER = '+917409986750'  # Replace with your number
 
 # Create directory for reports
 os.makedirs("reports", exist_ok=True)
